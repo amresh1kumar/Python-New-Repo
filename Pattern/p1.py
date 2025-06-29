@@ -71,12 +71,3 @@ for i in range(rows):
 #task 4
 
 
-
-
-
-
-
-
-
-
-
