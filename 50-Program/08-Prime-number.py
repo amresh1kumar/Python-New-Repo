@@ -1,18 +1,6 @@
 
 num = int(input('Enter a number: '))
 
-# if(num % 1==0 and num//num ==1):
-#    print(f'{num} is prime')
-# else:
-#      print(f'{num} is not prime') 
-
-# for i in range(2,num):
-#    if(i % 2 == 0):
-#       print('not prime')
-#    else:
-#       print('prime')
-
-
 if(num<=1):
    print(f'{num} is not prime')
 else:
